@@ -1,0 +1,640 @@
+1593817120465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileB5sC87"
+1593817126714	Marionette	INFO	Listening on port 62850
+1593817723574	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofile1ZOXkC"
+*** You are running in headless mode.
+1593817726691	Marionette	INFO	Listening on port 63124
+1593817726766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593817729494	Marionette	INFO	Stopped listening on port 63124
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1593818028051	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileXpxSgA"
+*** You are running in headless mode.
+1593818031382	Marionette	INFO	Listening on port 63292
+1593818031477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593818063131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileKcyTVF"
+*** You are running in headless mode.
+1593818066332	Marionette	INFO	Listening on port 63393
+1593818066429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593818130664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofilehL6bjd"
+*** You are running in headless mode.
+1593818134193	Marionette	INFO	Listening on port 63498
+1593818134272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593818157378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofilenswb0H"
+*** You are running in headless mode.
+1593818160390	Marionette	INFO	Listening on port 63598
+1593818160521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593818181156	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofilePfTS2D"
+*** You are running in headless mode.
+1593818185752	Marionette	INFO	Listening on port 63684
+1593818185815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593819479777	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofile4yjLNq"
+1593819483609	Marionette	INFO	Listening on port 64189
+1593819483685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1593819615447	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileCw2NDY"
+1593819619242	Marionette	INFO	Listening on port 64344
+1593819619296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593819645180	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofilepGhYWR"
+1593819649068	Marionette	INFO	Listening on port 64438
+1593819649148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593819686549	Marionette	INFO	Stopped listening on port 64344
+1593819690472	Marionette	INFO	Stopped listening on port 64189
+1593819695013	Marionette	INFO	Stopped listening on port 62850
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593819710510	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593819757996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileyYqENQ"
+1593819762955	Marionette	INFO	Listening on port 64581
+1593819763068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+1593820240733	Marionette	INFO	Stopped listening on port 64581
+1593820245434	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofile06Dm40"
+1593820249362	Marionette	INFO	Listening on port 64870
+1593820249472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593820384702	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofile6IJpD6"
+1593820388179	Marionette	INFO	Listening on port 65013
+1593820388232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593820398238	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1593820663750	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofiletz2Oat"
+1593820667973	Marionette	INFO	Listening on port 65203
+1593820668106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593820679433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofilecPP0RO"
+1593820683147	Marionette	INFO	Listening on port 65294
+1593820683216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593820692808	Marionette	INFO	Stopped listening on port 65294
+1593820697140	Marionette	INFO	Stopped listening on port 65203
+1593820722917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileeaeixN"
+1593820726253	Marionette	INFO	Listening on port 65388
+1593820726322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593820742073	Marionette	INFO	Stopped listening on port 65388
+1593820748467	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileXgyuLM"
+1593820752224	Marionette	INFO	Listening on port 65478
+1593820752312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593820756192	Marionette	INFO	Stopped listening on port 65478
+1593820960209	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofilehJ41eZ"
+*** You are running in headless mode.
+1593820964822	Marionette	INFO	Listening on port 49268
+1593820964899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593820966237	Marionette	INFO	Stopped listening on port 49268
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593821006615	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileMFekcS"
+1593821010311	Marionette	INFO	Listening on port 49394
+1593821010369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+1593821021149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593821056272	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofilekmRnIS"
+1593821061667	Marionette	INFO	Listening on port 49502
+1593821061714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+1593821085239	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593821154841	Marionette	INFO	Stopped listening on port 49502
+1593821175098	Marionette	INFO	Stopped listening on port 49394
+1593821178007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileu2RT0x"
+1593821181488	Marionette	INFO	Listening on port 49731
+1593821181568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593821205160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileVSIpn4"
+1593821205914	Marionette	INFO	Stopped listening on port 49731
+1593821208880	Marionette	INFO	Listening on port 49820
+1593821208968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593821356903	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileoNzjfc"
+1593821360612	Marionette	INFO	Listening on port 49973
+1593821360647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x6A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593822646891	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593822657988	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593822673002	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593822985459	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593823809931	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofile5gRCr7"
+1593823814091	Marionette	INFO	Listening on port 50855
+1593823814155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593823825608	Marionette	INFO	Stopped listening on port 50855
+1593823839389	Marionette	INFO	Stopped listening on port 49973
+1593823859041	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofilej6RmZu"
+1593823863262	Marionette	INFO	Listening on port 50945
+1593823863297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+1593823877298	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593823914144	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593823928896	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+1593830760081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileBsxrQA"
+1593830764279	Marionette	INFO	Listening on port 53059
+1593830764385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593830866818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileUGXHyt"
+1593830870778	Marionette	INFO	Listening on port 53205
+1593830870919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593831099105	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileRzn0zo"
+1593831103080	Marionette	INFO	Listening on port 53388
+1593831103112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1593831158231	Marionette	INFO	Stopped listening on port 53205
+1593831160554	Marionette	INFO	Stopped listening on port 53059
+1593831164318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileRk9o4u"
+1593831167996	Marionette	INFO	Listening on port 54276
+1593831168054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593832380366	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+1593832470838	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileeI5Tv2"
+1593832474810	Marionette	INFO	Listening on port 57291
+1593832474907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593832490737	Marionette	INFO	Stopped listening on port 57291
+1593832526987	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileE3GeHK"
+1593832530192	Marionette	INFO	Listening on port 57905
+1593832530209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.6f2d5a3584f0faaee6b3.js, line 1: unreachable code after return statement
+1593834236047	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593835811530	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593835867812	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1593873919154	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://cookieandkate.com/epic-vegetarian-tacos-recipe/, line 136: ReferenceError: jQuery is not defined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202006291657/wrap.js, line 8: unreachable code after return statement
+JavaScript error: https://cookieandkate.com/epic-vegetarian-tacos-recipe/, line 81: SyntaxError: unexpected token: identifier
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=1---, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?us_privacy=1---, line 12: SecurityError: The operation is insecure.
+1593922892493	Marionette	INFO	Stopped listening on port 57905
+1593990487064	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofilezP4cxO"
+1593990499146	Marionette	INFO	Listening on port 56476
+1593990499235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+1593990522258	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: http://libgen.is/, line 2: SyntaxError: expected expression, got '}'
+JavaScript warning: http://93.174.95.29/jquery-latest.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 77550, MediaDecoderStateMachine #1] WARNING: Decoder=149b2a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 77550, MediaDecoderStateMachine #1] WARNING: Decoder=149b2a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 77550, MediaDecoderStateMachine #1] WARNING: Decoder=149b2a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 77550, MediaDecoderStateMachine #1] WARNING: Decoder=149b2a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 77550, MediaDecoderStateMachine #1] WARNING: Decoder=149b2a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 77550, MediaDecoderStateMachine #1] WARNING: Decoder=1467de800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 77550, MediaDecoderStateMachine #1] WARNING: Decoder=1467de800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 77550, MediaDecoderStateMachine #1] WARNING: Decoder=1467de800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1594008322388	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1594008324341	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1594008326207	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.gatsbyjs.org/, line 152: ReferenceError: firebase is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1594263884521	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileNqfAew"
+1594263889508	Marionette	INFO	Listening on port 56666
+1594263889581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594264200678	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofile2aMcnd"
+1594264205203	Marionette	INFO	Listening on port 56893
+1594264205263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1594264279311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofile71F3T4"
+1594264283408	Marionette	INFO	Listening on port 57023
+1594264283472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1594264327912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileAsM1Gr"
+1594264332209	Marionette	INFO	Listening on port 57375
+1594264332257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+1594264781796	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+1594264968002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileOfYan5"
+1594264972395	Marionette	INFO	Listening on port 50305
+1594264972486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1594265185067	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileS12XI3"
+1594265190196	Marionette	INFO	Listening on port 50721
+1594265190287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594265273423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8p/s4wm2ycn6h9c9_r89mylbpxm0000gn/T/rust_mozprofileI4Hs1J"
+1594265277406	Marionette	INFO	Listening on port 50839
+1594265277512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.4c60d7b55c54a1f988b7.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+1594270893790	Marionette	INFO	Stopped listening on port 50721
+1594270899175	Marionette	INFO	Stopped listening on port 56893
